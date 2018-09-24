@@ -33,3 +33,8 @@
   publisher={ACM}
 }
 ```
+## Summary
+
+### Hypothesis
+
+Source code of programs written by people is simple and repetitive. It has predictable statistical properties that can be captured by statistical language models.
